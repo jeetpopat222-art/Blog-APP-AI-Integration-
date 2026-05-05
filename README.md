@@ -193,4 +193,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Jeet Popat**  
-GitHub: [@jeetpopat222-art](https://github.com/jeetpopat222-art)
+GitHub: [@jeetpopat222-art](https://github.com/jeetpopat222-art)# Blog-APP-AI-Integration-
